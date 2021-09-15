@@ -1,0 +1,4 @@
+*.swp
+outputs
+mem_test-scheduler
+mem_test-c/main
